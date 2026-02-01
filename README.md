@@ -79,47 +79,6 @@ src/
 
 ---
 
-## Getting started
-
-### Prerequisites
-
-- **Node.js** 20+
-- **npm** (or yarn / pnpm)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/hansy-website-muhammad-samir.git
-cd hansy-website-muhammad-samir
-
-# Install dependencies
-npm install
-```
-
-### Development
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000). The app uses the default locale; you can switch to Arabic via the locale prefix (e.g. `/ar`).
-
-### Build & production
-
-```bash
-npm run build
-npm start
-```
-
-### Lint
-
-```bash
-npm run lint
-```
-
----
-
 ## What’s included in this demo
 
 - Next.js 15 App Router and project structure
@@ -137,12 +96,4 @@ Some features, API integrations, and content have been **omitted or simplified**
 ## License
 
 This demo repository is for portfolio and demonstration purposes.  
-For licensing of the full Hansy Real Estate project, please contact the repository owner.
-
----
-
-<div align="center">
-
-**Hansy Real Estate** — _Find your dream home_
-
-</div>
+For licensing of the full Hansy Real Estate project.
