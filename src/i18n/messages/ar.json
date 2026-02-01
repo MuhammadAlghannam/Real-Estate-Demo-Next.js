@@ -1,0 +1,1173 @@
+{
+  "ProfileSidebar": {
+    "profile-details": "تفاصيل الملف الشخصي",
+    "password": "كلمة المرور",
+    "delete-account": "حذف الحساب"
+  },
+  "GlobalSearchPage": {
+    "metadata": {
+      "title": "بحث",
+      "description": "ابحث عن العقارات والمطورين والمجمعات والمناطق والمدن"
+    },
+    "title": "بحث شامل",
+    "input": {
+      "placeholder": "بحث..."
+    },
+    "tabs": {
+      "all": "الكل",
+      "properties": "العقارات",
+      "developers": "المطورون",
+      "compounds": "المجمعات",
+      "areas": "المناطق",
+      "cities": "المدن"
+    },
+    "results": {
+      "count": {
+        "result": "نتيجة",
+        "results": "نتائج",
+        "for": "لـ"
+      },
+      "empty-state": "أدخل مصطلح بحث للعثور على العقارات والمطورين والمجمعات والمناطق والمدن",
+      "no-results": "لم يتم العثور على نتائج لـ \"{search}\"",
+      "no-properties": "لم يتم العثور على عقارات لـ \"{search}\"",
+      "no-developers": "لم يتم العثور على مطورين لـ \"{search}\"",
+      "no-compounds": "لم يتم العثور على مجمعات لـ \"{search}\"",
+      "no-areas": "لم يتم العثور على مناطق لـ \"{search}\"",
+      "no-cities": "لم يتم العثور على مدن لـ \"{search}\""
+    },
+    "sections": {
+      "properties": "العقارات",
+      "developers": "المطورون",
+      "compounds": "المجمعات",
+      "areas": "المناطق",
+      "cities": "المدن"
+    },
+    "city": {
+      "property": "عقار",
+      "properties": "عقارات"
+    }
+  },
+  "LayoutMetadata": {
+    "title": {
+      "default": "هانسي للعقارات - ابحث عن منزل أحلامك",
+      "template": "%s | هانسي للعقارات"
+    },
+    "description": "اكتشف عقار أحلامك مع هانسي للعقارات. شركة العقارات الرائدة في مصر التي تقدم عقارات مميزة ومجمعات وفرص استثمارية. إرشاد خبير وخدمة مخصصة ومعرفة عميقة بالسوق.",
+    "application-name": "هانسي للعقارات",
+    "keywords": [
+      "هانسي للعقارات",
+      "عقارات مصر",
+      "عقار للبيع في مصر",
+      "شراء عقار في مصر",
+      "بيع عقار في مصر",
+      "عقارات مصر",
+      "مجمعات مصر",
+      "عقارات فاخرة في مصر",
+      "استثمار عقاري في مصر",
+      "مطورون مصر",
+      "بالم هيلز",
+      "إعمار مصر",
+      "سوديك",
+      "ماونتن فيو",
+      "القاهرة الجديدة",
+      "إدارة العقارات",
+      "وكلاء عقارات مصر"
+    ],
+    "authors": {
+      "name": "هانسي للعقارات"
+    },
+    "creator": "هانسي للعقارات",
+    "publisher": "هانسي للعقارات",
+    "open-graph": {
+      "site-name": "هانسي للعقارات",
+      "title": "هانسي للعقارات - ابحث عن منزل أحلامك في مصر",
+      "description": "اكتشف عقار أحلامك مع هانسي للعقارات. شركة العقارات الرائدة في مصر التي تقدم عقارات مميزة ومجمعات وفرص استثمارية."
+    },
+    "category": "عقارات"
+  },
+  "Shared": {
+    "truncate-words": {
+      "read-more": "اقرأ المزيد",
+      "read-less": "اقرأ أقل"
+    },
+    "truncate-html": {
+      "read-more": "اقرأ المزيد",
+      "read-less": "اقرأ أقل"
+    },
+    "pagination": {
+      "previous": "السابق",
+      "next": "التالي",
+      "go-to-previous-page": "انتقل إلى الصفحة السابقة",
+      "go-to-next-page": "انتقل إلى الصفحة التالية"
+    }
+  },
+  "NotFound": {
+    "title": "عفواً! الصفحة غير موجودة",
+    "description": "هذه الوجهة غير موجودة، لكن يمكننا مساعدتك في العثور على المكان المثالي!",
+    "go-back-home": "العودة للرئيسية"
+  },
+  "Navbar": {
+    "logout": "تسجيل الخروج",
+    "Profile": "الملف الشخصي"
+  },
+  "LoginPage": {
+    "metadata": {
+      "title": "تسجيل الدخول",
+      "description": "تسجيل الدخول إلى حسابك"
+    },
+    "welcome": "مرحباً بك في هانسي",
+    "subtitle": "قم بتسجيل الدخول لإدارة قوائمك والعقارات المفضلة.",
+    "heading": "دعنا نسجل دخولك",
+    "alt": {
+      "gray-bg": "خلفية رمادية لهانسي",
+      "logo": "شعار هانسي",
+      "building": "مبنى هانسي"
+    },
+    "form": {
+      "email": {
+        "placeholder": "أدخل بريدك الإلكتروني"
+      },
+      "password": {
+        "placeholder": "أدخل كلمة المرور",
+        "show-password": "إظهار كلمة المرور",
+        "hide-password": "إخفاء كلمة المرور"
+      },
+      "forgot-password": "نسيت كلمة المرور؟",
+      "submit": "تسجيل الدخول",
+      "disabled-account": {
+        "title": "حساب معطل",
+        "description": "هذا البريد الإلكتروني معطل، يرجى التحقق.",
+        "resend-otp": "إعادة إرسال رمز التحقق"
+      },
+      "validation": {
+        "email-invalid": "عنوان بريد إلكتروني غير صحيح",
+        "password-min": "يجب أن تكون كلمة المرور 8 أحرف على الأقل"
+      }
+    },
+    "success": {
+      "login-successful": "تم تسجيل الدخول بنجاح"
+    },
+    "errors": {
+      "invalid-credentials": "بريد إلكتروني أو كلمة مرور غير صحيحة"
+    },
+    "bottom-auth": {
+      "register": "إنشاء حساب",
+      "log-in": "تسجيل الدخول",
+      "no-account-prompt": "ليس لديك حساب بعد؟",
+      "has-account-prompt": "لديك حساب بالفعل؟",
+      "remember-password": "تذكرت كلمة المرور؟"
+    }
+  },
+  "RegisterPage": {
+    "metadata": {
+      "title": "إنشاء حساب",
+      "description": "إنشاء حساب جديد"
+    },
+    "welcome": "انضم واعثر على منزل أحلامك",
+    "subtitle": "أنشئ حساباً لاستكشاف أحدث القوائم والتواصل مع الوكلاء وتتبع رحلة عقارك.",
+    "alt": {
+      "gray-bg": "خلفية رمادية لهانسي",
+      "logo": "شعار هانسي",
+      "building": "مبنى هانسي"
+    },
+    "form": {
+      "name": {
+        "placeholder": "أدخل اسمك"
+      },
+      "email": {
+        "placeholder": "أدخل بريدك الإلكتروني"
+      },
+      "password": {
+        "placeholder": "إنشاء كلمة مرور",
+        "show-password": "إظهار كلمة المرور",
+        "hide-password": "إخفاء كلمة المرور"
+      },
+      "password-confirmation": {
+        "placeholder": "تأكيد كلمة المرور",
+        "show-password": "إظهار كلمة المرور",
+        "hide-password": "إخفاء كلمة المرور"
+      },
+      "submit": "إنشاء حساب",
+      "validation": {
+        "name-required": "الاسم مطلوب",
+        "email-invalid": "عنوان بريد إلكتروني غير صحيح",
+        "password-min": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+        "password-uppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+        "password-lowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+        "password-number": "يجب أن تحتوي على رقم",
+        "password-symbol": "يجب أن تحتوي على رمز",
+        "password-confirmation-required": "يرجى تأكيد كلمة المرور",
+        "passwords-not-match": "كلمات المرور غير متطابقة"
+      }
+    },
+    "success": {
+      "otp-sent": "تم إرسال رمز التحقق إلى بريدك الإلكتروني بنجاح"
+    }
+  },
+  "OtpVerificationPage": {
+    "form": {
+      "resend": "إعادة الإرسال",
+      "submit": "التحقق من رمز التحقق",
+      "validation": {
+        "token-min": "يجب أن يكون رمز التحقق 6 أرقام بالضبط.",
+        "token-max": "يجب أن يكون رمز التحقق 6 أرقام بالضبط.",
+        "token-digits-only": "يجب أن يحتوي رمز التحقق على أرقام فقط."
+      }
+    }
+  },
+  "ForgetPasswordPage": {
+    "metadata": {
+      "title": "نسيت كلمة المرور",
+      "description": "نسيت كلمة المرور"
+    },
+    "title": "نسيت كلمة المرور؟",
+    "subtitle": "لا تقلق، يمكنك بسهولة تغيير كلمة المرور.",
+    "heading": "دعنا نمنحك كلمة مرور جديدة",
+    "alt": {
+      "gray-bg": "خلفية رمادية لهانسي",
+      "logo": "شعار هانسي",
+      "building": "مبنى هانسي"
+    },
+    "form": {
+      "email": {
+        "placeholder": "أدخل بريدك الإلكتروني"
+      },
+      "submit": "إرسال رابط إعادة التعيين",
+      "validation": {
+        "email-invalid": "عنوان بريد إلكتروني غير صحيح"
+      }
+    },
+    "success": {
+      "reset-link-sent": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني بنجاح"
+    },
+    "errors": {
+      "email-not-exist": "البريد الإلكتروني غير موجود"
+    }
+  },
+  "ResetPasswordPage": {
+    "metadata": {
+      "title": "إعادة تعيين كلمة المرور",
+      "description": "إعادة تعيين كلمة المرور"
+    },
+    "title": "إعادة تعيين كلمة المرور؟",
+    "subtitle": "لا تقلق، يمكنك بسهولة تغيير كلمة المرور.",
+    "heading": "دعنا نمنحك كلمة مرور جديدة",
+    "alt": {
+      "gray-bg": "خلفية رمادية لهانسي",
+      "logo": "شعار هانسي",
+      "building": "مبنى هانسي"
+    },
+    "form": {
+      "password": {
+        "placeholder": "أدخل كلمة المرور الجديدة",
+        "show-password": "إظهار كلمة المرور",
+        "hide-password": "إخفاء كلمة المرور"
+      },
+      "password-confirmation": {
+        "placeholder": "تأكيد كلمة المرور الجديدة",
+        "show-password": "إظهار كلمة المرور",
+        "hide-password": "إخفاء كلمة المرور"
+      },
+      "resend": "إعادة الإرسال",
+      "submit": "إعادة تعيين كلمة المرور",
+      "validation": {
+        "token-min": "يجب أن يكون رمز التحقق 6 أرقام بالضبط.",
+        "token-max": "يجب أن يكون رمز التحقق 6 أرقام بالضبط.",
+        "token-digits-only": "يجب أن يحتوي رمز التحقق على أرقام فقط.",
+        "password-min": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+        "password-uppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+        "password-lowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+        "password-number": "يجب أن تحتوي على رقم",
+        "password-symbol": "يجب أن تحتوي على رمز",
+        "password-confirmation-required": "يرجى تأكيد كلمة المرور الجديدة",
+        "passwords-not-match": "كلمات المرور غير متطابقة"
+      }
+    },
+    "success": {
+      "password-reset": "تم إعادة تعيين كلمة المرور بنجاح"
+    },
+    "errors": {
+      "invalid-token": "رمز غير صحيح"
+    }
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Be More Than a Client,",
+      "subtitle": {
+        "prefix": "Be with",
+        "brand": "Hansy Circle."
+      },
+      "description": "Join our circle community and get rewarded for every client you bring to Hansy Real Esatate.",
+      "view-more": "View More",
+      "alt": {
+        "circle": "HIS Circle",
+        "buy": "HIS Buy",
+        "sell": "HIS Sell"
+      },
+      "fast-filter-form": {
+        "labels": {
+          "property-type": "نوع العقار",
+          "location": "الموقع",
+          "price-range": "نطاق السعر"
+        },
+        "placeholders": {
+          "select-property-type": "اختر نوع العقار",
+          "select-city": "اختر المدينة",
+          "from": "من",
+          "to": "إلى"
+        },
+        "buttons": {
+          "search": "بحث"
+        },
+        "validation": {
+          "min-price-invalid": "يجب أن يكون الحد الأدنى للسعر رقماً صحيحاً",
+          "max-price-invalid": "يجب أن يكون الحد الأقصى للسعر رقماً صحيحاً",
+          "price-range-invalid": "يجب أن يكون الحد الأقصى للسعر أكبر من أو يساوي الحد الأدنى"
+        }
+      }
+    },
+    "second-section-cards": {
+      "scroll-now": "Scroll Now",
+      "alt": {
+        "scroll": "scroll",
+        "home": "home",
+        "cash": "cash",
+        "building": "building",
+        "sun": "sun"
+      },
+      "cards": {
+        "find-dream-home": "Find Your Dream Home",
+        "unlock-property-value": "Unlock Property Value",
+        "effortless-property-management": "Effortless Property Management",
+        "smart-investments": "Smart Investments, Informed Decisions"
+      }
+    },
+    "top-developers": {
+      "title": "Top Developers",
+      "description": {
+        "brand": "Hansy",
+        "text": "Real Estate has forged strong relationships with Egypt`s most prominent real estate developers, allowing us to offer clients exclusive access to exceptional properties in premium locations. Our esteemed developer partners include:"
+      },
+      "view-all": "View All",
+      "empty-state": "لم يتم العثور على مطورين"
+    },
+    "offerings-opportunities": {
+      "title": "Discover The",
+      "subtitle": "Newest Real Estate Offerings",
+      "description": "Stay ahead with our newest real estate oppertunities.",
+      "see-all-properties": "See All Properties",
+      "empty-state": "لم يتم العثور على عقارات",
+      "alt": {
+        "background": "background"
+      }
+    },
+    "top-compounds": {
+      "title": "Explore Top Compounds",
+      "description": "As the complexity of buildings to increase, the field of architecture.",
+      "view-all": "View All",
+      "empty-state": "لم يتم العثور على مجمعات"
+    },
+    "selling-option": {
+      "title": {
+        "prefix": "Let's Find",
+        "middle": "The Right",
+        "suffix": "Buy Option For You"
+      },
+      "description": "As the complexity of buildings to increase, the field of architecture.",
+      "features": {
+        "find-deals": "Find excellent deals",
+        "friendly-support": "Friendly host & Fast support",
+        "list-property": "List your own property"
+      },
+      "explore-more": "Explore More",
+      "alt": {
+        "background": "background"
+      }
+    },
+    "unlock-your-potential": {
+      "title": "Unlock Your Potential with Hansy",
+      "description": {
+        "prefix": "At",
+        "brand": "Hansy,",
+        "text": "we specialize in making your real estate journey smooth and stress-free. Whether you're buying, selling, or renting, our expert team provides personalized solutions that ensure you make the right decisions. From market insights to legal guidance, we are with you every step of the way."
+      },
+      "cards": {
+        "expert-guidance": {
+          "title": "Expert Guidance",
+          "description": "Our experienced agents offer market analysis, negotiation skills, and expert advice."
+        },
+        "tailored-solutions": {
+          "title": "Tailored Solutions",
+          "description": "We understand your needs, whether you're a first-time homebuyer or a seasoned investor."
+        },
+        "comprehensive-service": {
+          "title": "Comprehensive Service",
+          "description": "We handle everything from property listings to paperwork, making your experience seamless."
+        },
+        "global-reach": {
+          "title": "Global Reach, Local Expertise",
+          "description": "With a vast network and deep local knowledge, we find the perfect property for you, no matter where you're located."
+        }
+      },
+      "contact-us-now": "Contact Us Now",
+      "alt": {
+        "background": "background"
+      }
+    },
+    "hansay-app": {
+      "title": "Experience Real Estate Like",
+      "subtitle": "Never Before – Get the Hansy App Today!",
+      "description": "Find your next home with smart search, detailed property listings, and effortless management — begin now!",
+      "alt": {
+        "blue-line": "blue line",
+        "app-store": "App Store",
+        "google-play": "Google Play Store"
+      }
+    }
+  },
+  "AllDevelopersPage": {
+    "metadata": {
+      "title": "المطورون",
+      "description": "جميع المطورين"
+    },
+    "title": "جميع المطورين",
+    "empty-state": "لم يتم العثور على مطورين"
+  },
+  "AllCompoundsPage": {
+    "metadata": {
+      "title": "المجمعات",
+      "description": "جميع المجمعات"
+    },
+    "title": "جميع المجمعات",
+    "empty-state": "لم يتم العثور على مجمعات"
+  },
+  "AllPropertiesPage": {
+    "metadata": {
+      "title": "العقارات",
+      "description": "جميع العقارات"
+    },
+    "tabs": {
+      "buy": "شراء",
+      "rent": "إيجار"
+    },
+    "tabs-content": {
+      "sell-title": "عقارات سكنية للبيع في هانسي",
+      "rent-title": "عقارات سكنية للإيجار في هانسي",
+      "result": "نتيجة",
+      "results": "نتائج"
+    },
+    "search": {
+      "placeholder": "البحث عن عقارات..."
+    },
+    "filters": {
+      "trigger": "الفلترة",
+      "title": "فلترة العقارات",
+      "description": "قم بتطبيق الفلاتر للعثور على عقارك المثالي",
+      "reset": "إعادة تعيين",
+      "apply": "تطبيق الفلاتر"
+    },
+    "filter-form": {
+      "location": {
+        "title": "الموقع",
+        "select-city": "اختر مدينة",
+        "select-area": "اختر منطقة"
+      },
+      "property-type": {
+        "title": "نوع العقار"
+      },
+      "bedrooms": {
+        "title": "غرف النوم",
+        "aria-label": "تبديل {count} غرفة نوم"
+      },
+      "bathrooms": {
+        "title": "الحمامات",
+        "aria-label": "تبديل {count} حمام"
+      },
+      "property-size": {
+        "title": "مساحة العقار",
+        "area-range": "نطاق المساحة (م²)",
+        "description": "اختر نطاق المساحة ({min} م² - {max} م²).",
+        "aria-label": "نطاق المساحة"
+      },
+      "property-price": {
+        "title": "سعر العقار",
+        "price-range": "نطاق السعر",
+        "description": "حدد نطاق ميزانيتك (جنيه {min} - {max}).",
+        "aria-label": "نطاق السعر"
+      }
+    },
+    "empty-state": "لم يتم العثور على عقارات"
+  },
+  "CompoundSinglePage": {
+    "metadata": {
+      "fallback-title": "مجمع"
+    },
+    "details": "التفاصيل",
+    "price-card": {
+      "resale-start-price": "سعر البيع الثانوي",
+      "primary-start-price": "سعر البيع الأولي"
+    },
+    "payment-plans": {
+      "no-description": "لا يوجد وصف متاح",
+      "get-plan": "احصل على الخطة"
+    },
+    "contact-modal": {
+      "title": "معلومات الاتصال",
+      "aria-labels": {
+        "call": "اتصل بـ {phone}",
+        "whatsapp": "واتساب {phone}"
+      },
+      "alt": {
+        "whatsapp": "واتساب"
+      }
+    },
+    "documents": {
+      "location": {
+        "title": "الموقع",
+        "view-on-google-maps": "عرض على خرائط جوجل"
+      },
+      "master-plan": {
+        "title": "المخطط الرئيسي",
+        "pdf": "PDF",
+        "view-image": "عرض الصورة",
+        "alt": "المخطط الرئيسي"
+      }
+    },
+    "properties": {
+      "title": "العقارات",
+      "empty-state": "لم يتم العثور على عقارات",
+      "tabs": {
+        "all": "الكل",
+        "primary": "أولي",
+        "resale": "إعادة البيع"
+      }
+    }
+  },
+  "PropertySinglePage": {
+    "metadata": {
+      "fallback-title": "عقار"
+    },
+    "down-payment": "دفعة أولى :",
+    "tabs": {
+      "property-details": "تفاصيل العقار",
+      "floor-plan": "المخطط",
+      "property-video": "فيديو العقار"
+    },
+    "nearby-properties": "عقارات قريبة",
+    "nearby-properties-empty-available": "لا توجد عقارات قريبة متاحة",
+    "nearby-properties-empty-found": "لم يتم العثور على عقارات قريبة",
+    "contact-modal": {
+      "title": "معلومات الاتصال",
+      "aria-labels": {
+        "call": "اتصل بـ {phone}",
+        "whatsapp": "واتساب {phone}"
+      },
+      "alt": {
+        "whatsapp": "واتساب"
+      }
+    },
+    "schedule-visit": {
+      "button": "جدولة زيارة",
+      "modal-title": "جدولة زيارة",
+      "login-required": "يجب تسجيل الدخول أولاً",
+      "success-message": "تم إرسال طلب الزيارة بنجاح!",
+      "form": {
+        "title": {
+          "label": "العنوان",
+          "placeholder": "أدخل العنوان"
+        },
+        "phone": {
+          "label": "الهاتف",
+          "placeholder": "أدخل رقم هاتفك"
+        },
+        "description": {
+          "label": "الوصف",
+          "placeholder": "أدخل وصفك هنا ..."
+        },
+        "submit": "جدولة الزيارة",
+        "validation": {
+          "title-required": "العنوان مطلوب",
+          "phone-required": "رقم الهاتف مطلوب",
+          "phone-invalid": "يرجى إدخال رقم هاتف صحيح.",
+          "description-required": "الوصف مطلوب",
+          "slug-required": "المعرف مطلوب"
+        }
+      }
+    },
+    "property-details": {
+      "title": "تفاصيل العقار:",
+      "area": "المساحة:",
+      "bedrooms": "غرف النوم:",
+      "bathrooms": "الحمامات:",
+      "garage": "الجراج:",
+      "kitchen": "المطبخ:",
+      "description-title": "وصف العقار:",
+      "additional-details-title": "تفاصيل إضافية:",
+      "nearest-location-title": "أقرب موقع:",
+      "amenities-title": "المرافق:",
+      "features-title": "المميزات:",
+      "location-map-title": "خريطة الموقع:"
+    },
+    "property-floor": {
+      "empty-state": "لا توجد مخططات متاحة"
+    },
+    "property-video": {
+      "empty-state": "لا يوجد فيديو",
+      "alt": {
+        "video-thumbnail": "صورة مصغرة للفيديو"
+      }
+    },
+    "alt": {
+      "developer-logo": "شعار المطور"
+    }
+  },
+  "DevelopersSinglePage": {
+    "tabs": {
+      "offers": "العروض",
+      "compounds": "المجمعات"
+    },
+    "offers-card": {
+      "empty-state": "لم يتم العثور على عروض.",
+      "contact-not-available": "معلومات الاتصال غير متاحة.",
+      "no-description": "لا يوجد وصف متاح",
+      "get-offer": "احصل على العرض"
+    },
+    "contact-modal": {
+      "title": "معلومات الاتصال",
+      "aria-labels": {
+        "call": "اتصل بـ {phone}",
+        "whatsapp": "واتساب {phone}"
+      },
+      "alt": {
+        "whatsapp": "واتساب"
+      }
+    },
+    "compounds-list": {
+      "empty-state": "لم يتم العثور على مجمعات"
+    }
+  },
+  "OppertunitiesCard": {
+    "view-property-details": "عرض تفاصيل العقار",
+    "sq-ft": "قدم مربع",
+    "rooms": "غرف",
+    "bath": "حمام",
+    "alt": {
+      "developer-logo": "شعار المطور"
+    }
+  },
+  "AboutPage": {
+    "metadata": {
+      "title": "معلومات عنا",
+      "description": "معلومات عنا"
+    },
+    "who-we-are": {
+      "title": "Who We Are ?",
+      "description": {
+        "part1": "Founded in Alexandria,",
+        "brand": "Hansy",
+        "part2": " is one of Egypt's top-performing real estate brokerage companies, known for exceptional service and unmatched market expertise.",
+        "part3": " Real Estate is a premiere real estate brokerage company specializing in providing exceptional property solutions throughout Egypt, with a steadfast commitment to excellence, innovation, and personalized service.",
+        "part4": " has earned a reputation as a leader in the real estate sector, consistently delivering unparalleled results for our clients."
+      }
+    },
+    "mission-vision": {
+      "mission": {
+        "title": "Our Mission",
+        "description": "To empower individuals and families by finding the right property at the right value—backed by honesty, clarity, and commitment."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To become the most trusted real estate brand in Egypt by providing premium brokerage experiences rooted in professionalism and transparency."
+      },
+      "expertise": {
+        "title": "Our Expertise",
+        "items": {
+          "experience": "Years of experience in the real estate industry",
+          "market-knowledge": "Deep knowledge of Egypt's market",
+          "segments": "Commercial, residential, and luxury segment experts"
+        }
+      },
+      "core-values": {
+        "title": "Our Core Values",
+        "items": {
+          "integrity": "Integrity",
+          "client-first": "Client-first attitude",
+          "excellence": "Excellence",
+          "innovation": "Innovation",
+          "accountability": "Accountability"
+        }
+      }
+    },
+    "our-services": {
+      "title": "Our Services",
+      "alt": "our services",
+      "description": {
+        "part1": "At Hansy Real Estate , We elevate the home-buying experience with a range of personalized services designed to meet your needs.",
+        "part2": "Whether you're a first -time buyer or an investor, We're here to help you find your dream property. Experience the difference with Hansy Real Estate!"
+      }
+    },
+    "why-choose-us": {
+      "title": "Why Choose Us ?",
+      "description": "Finding your dream home shouldn't be complicated. Whether you're buying, selling, or investing, you deserve a team that understands the local market and puts your needs first. With our expertise, personalized service, and deep roots in the community, we make every real estate journey effortless and rewarding.",
+      "alt": "background",
+      "cards": {
+        "local-expertise": {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Egypt's market and property trends"
+        },
+        "professional-team": {
+          "title": "Professional Team",
+          "description": "Trained, certified agents ready to help"
+        },
+        "high-success-rate": {
+          "title": "High Success Rate",
+          "description": "95% client satisfaction and referral rate"
+        },
+        "personalized-approach": {
+          "title": "Personalized Approach",
+          "description": "We listen, we understand, we deliver"
+        },
+        "tech-driven-tools": {
+          "title": "Tech-Driven Tools",
+          "description": "Smart filters, live listings, instant communication"
+        }
+      }
+    },
+    "our-achievements": {
+      "title": "Our Achievements ",
+      "description": {
+        "part1": "At Hansy Real Estate,",
+        "part2": " excellence isn't just a goal—it's our standard. we're proud to be consistently",
+        "part3": "recognized as leaders in the industry, delivering outstanding results across Egypt's top developments"
+      },
+      "achievements": {
+        "elsewhere-development": {
+          "title": "Elsewhere Development",
+          "description": "Leading the way with unmatched performance and client trust."
+        },
+        "people-places": {
+          "title": "People & Places",
+          "description": "A testament to our dedication, market expertise, and client-first approach."
+        },
+        "sed": {
+          "title": "SED (Saudi Egyptian Developers)",
+          "description": "Setting the benchmark for excellence in sales and customer satisfaction."
+        },
+        "ora": {
+          "title": "ORA",
+          "description": "Officially ranked at the top—Hansy Real Estate continues to dominate the charts with record-breaking sales."
+        },
+        "orascom": {
+          "title": "Orascom",
+          "description": "Recognized for exceptional performance in one of Egypt's most iconic coastal areas."
+        }
+      }
+    },
+    "meet-our-team": {
+      "title": "Meet Our Team",
+      "description": "Our team is made up of dedicated professionals who combine expertise, experience, and a client-first approach to make your real estate journey effortless and rewarding. From finding the right property to guiding you through every step of the process, we are here to provide trusted advice, personalized support, and successful results."
+    },
+    "where-we-operate": {
+      "title": "Where We Operate",
+      "description": {
+        "part1": "Hansy",
+        "part2": " real estate operates from strategically located offices to provide",
+        "part3": "our clients with convenient and accessible services."
+      },
+      "alt": {
+        "location": "location",
+        "mob-location": "mob location"
+      },
+      "locations": {
+        "delta-life-tower-albert": {
+          "title": "Delta life Tower, Albert 1st ,Street",
+          "subtitle": "Smouha -Building No.4 , 1st Floor."
+        },
+        "north-gate-mall": {
+          "title": "North Gate Mall, KM 112 -Alexandria.",
+          "subtitle": "Matrouh Road."
+        },
+        "kamal-el-din-salah": {
+          "title": "56 Kamal El-Din Salah",
+          "subtitle": "Smouha"
+        },
+        "delta-life-tower-smouha": {
+          "title": "Delta life Tower, Albert 1st ,Street",
+          "subtitle": "Smouha -Building No. 11 , 12th floor"
+        }
+      }
+    }
+  },
+  "ServicesPage": {
+    "metadata": {
+      "title": "الخدمات والمنتجات",
+      "description": "الخدمات والمنتجات"
+    },
+    "our-services": {
+      "title": "Our Services",
+      "alt": "our services",
+      "description": {
+        "part1": "At Hansy Real Estate , We elevate the home-buying experience with a range of personalized services designed to meet your needs.",
+        "part2": "Whether you're a first -time buyer or an investor, We're here to help you find your dream property. Experience the difference with Hansy Real Estate!"
+      }
+    },
+    "help-you": {
+      "title": "See How Hasny Can Help You !",
+      "cards": {
+        "buy": {
+          "title": "Buy a property",
+          "alt": "Buy a property",
+          "short-description": "Find your dream home with ease.",
+          "long-description": "Explore a wide range of properties tailored to your needs, preferences, and budget. Whether you're looking for your first home or an investment opportunity.",
+          "button-text": "Find a home"
+        },
+        "sell": {
+          "title": "Sell a property",
+          "alt": "Buy a property",
+          "short-description": "Find your dream home with ease.",
+          "long-description": "Explore a wide range of properties tailored to your needs, preferences, and budget. Whether you're looking for your first home or an investment opportunity.",
+          "button-text": "Sell a home"
+        }
+      }
+    },
+    "services-hansy-app": {
+      "title": "Ready To Start Your Hansy",
+      "title-suffix": "Circle Journey ?",
+      "subtitle": "Get Started Through Our App.",
+      "alt": {
+        "app-store": "App Store",
+        "google-play": "Google Play Store"
+      }
+    }
+  },
+  "OurAgentsPage": {
+    "metadata": {
+      "title": "وكلاؤنا",
+      "description": "وكلاؤنا"
+    },
+    "your-dream": {
+      "title": "Let's Talk About Your Dream Home,",
+      "subtitle": "Ready To Find Your Perfect Home In Egypt?",
+      "description": {
+        "part1": "At",
+        "brand": "Hansy",
+        "part2": ", we understand that a home is more than just a place it's your future. Whether you're buying, selling, or investing, our team is here to guide you every step of the way."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about Estatein's services, property listings, and the real estate process. We're here to provide clarity and assist you every step of the way.",
+      "empty-state": "لا توجد أسئلة وأجوبة متاحة في الوقت الحالي."
+    },
+    "our-location": {
+      "title": "Our Location",
+      "description": "Visit us at our downtown office — we'd love to meet you in person."
+    },
+    "hansy-app-2": {
+      "title": "Experience Real Estate Like",
+      "subtitle": "Never Before – Get the Hansy App Today!",
+      "description": "Find your next home with smart search, detailed property listings, and effortless management — begin now!",
+      "alt": {
+        "blue-line": "blue line",
+        "app-store": "App Store",
+        "google-play": "Google Play Store"
+      }
+    }
+  },
+  "ContactUsPage": {
+    "metadata": {
+      "title": "اتصل بنا",
+      "description": "اتصل بنا"
+    },
+    "title": "Contact Us",
+    "description": "Fill out the form below and we'll get back to you as soon as possible.",
+    "alt": {
+      "background": "background"
+    },
+    "contact-us-form": {
+      "labels": {
+        "name": "الاسم",
+        "email-address": "البريد الإلكتروني",
+        "subject": "الموضوع",
+        "message": "الرسالة"
+      },
+      "placeholders": {
+        "name": "أدخل اسمك",
+        "email-address": "أدخل البريد الإلكتروني",
+        "subject": "أدخل الموضوع",
+        "message": "أدخل رسالتك هنا..."
+      },
+      "send-message": "ارسل الرسالة",
+      "validation": {
+        "name-required": "الاسم مطلوب",
+        "email-invalid": "تأكد من إدخال بريد إلكتروني صحيح",
+        "subject-required": "الموضوع مطلوب",
+        "message-min": "يجب أن تكون الرسالة 10 أحرف على الأقل",
+        "message-max": "يجب ألا تزيد الرسالة عن 1000 حرف"
+      }
+    },
+    "contact-us-boxes": {
+      "email-address": "البريد الإلكتروني",
+      "phone-number": "رقم الهاتف",
+      "location": "الموقع",
+      "our-location": "Our Location",
+      "description": "Fill out the form below and we'll get back to you as soon as possible."
+    }
+  },
+  "FavoritesPage": {
+    "metadata": {
+      "title": "المفضلة",
+      "description": "المفضلة"
+    },
+    "title": "Your Favorite Properties",
+    "description": "Explore your favorite properties.",
+    "empty-state": "لا توجد عقارات مفضلة"
+  },
+  "VerifyAgent": {
+    "verify-agent": "Verify Agent",
+    "alt": {
+      "verify-phone": "verfiy phone"
+    },
+    "title": "Confirm Your Agent's Identity",
+    "description": {
+      "part1": "Protect yourself by verifying if your agent is officially certified with",
+      "brand": "Hansy Real Estate",
+      "part2": "."
+    },
+    "form": {
+      "labels": {
+        "phone-number": "رقم الهاتف"
+      },
+      "placeholders": {
+        "phone-number": "يرجى إدخال رقم هاتف الوكيل"
+      },
+      "verify-agent": "التحقق من الوكيل",
+      "validation": {
+        "phone-required": "رقم الهاتف مطلوب",
+        "phone-invalid": "يرجى إدخال رقم هاتف صحيح"
+      }
+    },
+    "invalid-agent-display": {
+      "title": "🚫 هذا الوكيل غير رسمي",
+      "message": "We could not verify this agent. Please contact an official representative to ensure a secure transaction."
+    }
+  },
+  "HansyCirclePage": {
+    "metadata": {
+      "title": "دائرة هانسي",
+      "description": "دائرة هانسي"
+    },
+    "hansy-circle": {
+      "alt": {
+        "circle": "hanasy circle"
+      },
+      "title": {
+        "part1": "Join The Hansy Cir",
+        "part2": "cle"
+      },
+      "subtitle": "and Start Earning!",
+      "description": {
+        "part1": "Whether you're an expert in the field or have a strong network,",
+        "part2": "Join our circle program to help us reach new clients and earn exclusive benefits."
+      }
+    },
+    "what-hansy-circle": {
+      "title": "What is the Hansy Circle ?",
+      "description": "Hansy Circle is a new way to be part of the real estate world, open to everyone. It lets you refer people who are looking to buy property through Hansy, and earn money every time a deal is closed. You simply upload your information and ID through the Hansy app, and once approved, you can start referring, tracking your progress, and leveling up from Bronze to Silver, Gold, and Platinum. The more successful referrals you make, the higher you rise and the more you earn. Hansy Circle turns opportunity into a system where anyone can grow, contribute, and be part of the Hansy family.",
+      "alt": {
+        "circle": "hanasy circle"
+      }
+    },
+    "requirements": {
+      "title": "Requirements",
+      "description": "All you need is passion, purpose, and the willingness to grow.",
+      "cards": {
+        "communication-skills": {
+          "alt": "skills",
+          "title": "Strong Communication Skills",
+          "description": "You're a natural at networking, building relationships, and guiding clients with confidence."
+        },
+        "self-motivated": {
+          "alt": "self-motivated",
+          "title": "Self-Motivated & Goal-Oriented",
+          "description": "You don't wait for opportunities — you create them. Ambassadors should be proactive and results-driven."
+        },
+        "passion-real-estate": {
+          "alt": "social-media",
+          "title": "Passion for Real Estate & Social Media Presence",
+          "description": "Our love property, people, and the excitement of closing the perfect deal."
+        },
+        "availability-commitment": {
+          "alt": "key",
+          "title": "Availability & Commitment",
+          "description": "You're able to dedicate consistent time to promoting properties and helping clients"
+        }
+      }
+    },
+    "real-rewards": {
+      "title": "Unlock Real Rewards",
+      "subtitle": "as Part of Hansy Circle",
+      "cards": {
+        "card1": {
+          "alt": "skills",
+          "title": "Property Management"
+        },
+        "card2": {
+          "alt": "key",
+          "title": "Property Management"
+        },
+        "card3": {
+          "alt": "cash",
+          "title": "Property Management"
+        }
+      },
+      "alt": {
+        "background": "background"
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "description": {
+        "part1": "Find answers to common questions about Estatein's services, property listings, and the real estate process.",
+        "part2": "We're here to provide clarity and assist you every step of the way."
+      },
+      "empty-state": "لا توجد أسئلة شائعة متاحة في الوقت الحالي"
+    },
+    "app-download": {
+      "title": {
+        "part1": "Ready to Start Your",
+        "part2": "Hansy Circle Journey?"
+      },
+      "subtitle": "Get Started Through Our App.",
+      "alt": {
+        "app-store": "Download on the App Store",
+        "google-play": "Get it on Google Play",
+        "mobile-app": "mobile App"
+      }
+    }
+  },
+  "ProfilePage": {
+    "metadata": {
+      "title": "الملف الشخصي",
+      "description": "ملف حسابك الشخصي"
+    },
+    "title": "الملف الشخصي",
+    "profile-form": {
+  "upload-picture": "رفع صورة",
+  "uploading": "جاري الرفع...",
+  "name": {
+    "label": "الاسم",
+    "placeholder": "أدخل اسمك"
+  },
+  "email": {
+    "label": "البريد الإلكتروني",
+    "placeholder": "أدخل البريد الإلكتروني"
+  },
+  "phone": {
+    "label": "رقم الهاتف",
+    "placeholder": "أدخل رقم الهاتف"
+  },
+  "address": {
+    "label": "العنوان",
+    "placeholder": "أدخل عنوانك"
+  },
+  "designation": {
+    "label": "المسمى الوظيفي",
+    "placeholder": "أدخل المسمى الوظيفي"
+  },
+  "about-me": {
+    "label": "نبذة عني",
+    "placeholder": "حدثنا عن نفسك"
+  },
+  "update-profile": "تحديث الملف الشخصي",
+  "validation": {
+    "name-required": "الاسم مطلوب",
+    "email-invalid": "يرجى إدخال بريد إلكتروني صحيح",
+    "phone-required": "رقم الهاتف مطلوب",
+    "phone-invalid": "يرجى إدخال رقم هاتف صحيح",
+    "address-required": "العنوان مطلوب",
+    "about-me-required": "النبذة التعريفية مطلوبة",
+    "designation-required": "المسمى الوظيفي مطلوب",
+    "file-size": "يجب ألا يتجاوز حجم الملف 5 ميجابايت",
+    "file-type": "يجب أن يكون الملف صورة بصيغة JPEG أو PNG أو WebP"
+  },
+  "success": {
+    "profile-updated": "تم تحديث الملف الشخصي بنجاح!"
+  },
+  "error": {
+    "update-failed": "فشل تحديث الملف الشخصي"
+  }
+    }
+  },
+  "PasswordPage": {
+    "metadata": {
+      "title": "تحديث كلمة المرور",
+      "description": "قم بتحديث كلمة مرور حسابك"
+    },
+    "title": "تحديث كلمة المرور",
+    "update-password-form": {
+  "current-password": {
+    "placeholder": "أدخل كلمة المرور الحالية",
+    "show-password": "إظهار كلمة المرور",
+    "hide-password": "إخفاء كلمة المرور"
+  },
+  "new-password": {
+    "placeholder": "أدخل كلمة المرور الجديدة",
+    "show-password": "إظهار كلمة المرور",
+    "hide-password": "إخفاء كلمة المرور"
+  },
+  "confirm-password": {
+    "placeholder": "تأكيد كلمة المرور الجديدة",
+    "show-password": "إظهار كلمة المرور",
+    "hide-password": "إخفاء كلمة المرور"
+  },
+  "update-password": "تحديث كلمة المرور",
+  "validation": {
+    "password-min": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+    "password-uppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+    "password-lowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+    "password-number": "يجب أن تحتوي على رقم واحد على الأقل",
+    "password-symbol": "يجب أن تحتوي على رمز واحد على الأقل",
+    "password-confirmation-required": "يرجى تأكيد كلمة المرور الجديدة",
+    "passwords-not-match": "كلمتا المرور غير متطابقتين"
+  },
+  "success": {
+    "password-updated": "تم تحديث كلمة المرور بنجاح"
+  },
+  "error": {
+    "update-failed": "فشل تحديث كلمة المرور",
+    "current-password-mismatch": "كلمة المرور الحالية غير صحيحة"
+  }
+    }
+  },
+  "DeleteAccountPage": {
+    "delete-account-btn": {
+      "title": "حذف الحساب",
+      "description": "لا يمكن التراجع عن هذا الإجراء. سيؤدي هذا إلى حذف حسابك بشكل دائم وإزالة بياناتك."
+    },
+    "delete-account-form": {
+      "password": {
+        "label": "كلمة المرور الحالية",
+        "placeholder": "أدخل كلمة المرور الحالية",
+        "show-password": "إظهار كلمة المرور",
+        "hide-password": "إخفاء كلمة المرور"
+      },
+      "delete": "حذف",
+      "deleting": "جاري الحذف ...",
+      "validation": {
+        "password-min": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+        "password-uppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+        "password-lowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+        "password-number": "يجب أن تحتوي على رقم",
+        "password-symbol": "يجب أن تحتوي على رمز"
+      },
+      "success": {
+        "account-deleted": "تم حذف الحساب بنجاح"
+      },
+      "error": {
+        "delete-failed": "فشل حذف الحساب",
+        "invalid-password": "يرجى إدخال كلمة مرور صحيحة"
+      }
+    }
+  }
+}

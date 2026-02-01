@@ -1,0 +1,211 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  /* Border Radius System */
+  /* 8 */
+  --radius-sm: calc(var(--radius) - 2px);
+  /* 10 */
+  --radius-md: var(--radius);
+  /* 12 */
+  --radius-lg: calc(var(--radius) + 2px);
+  /* 60 */
+  --radius-button: 3.75rem;
+  /* 60px */
+
+  /* Colors */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Brand extensions */
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-text-gray: var(--text-gray);
+  --color-text-gray-dark: var(--text-gray-dark);
+  --color-hover: var(--hover);
+
+  /* Font family */
+  --font-poppins: "Poppins", sans-serif;
+
+  /* Heading scale */
+
+  /* 48px */
+  --text-h1-semibold: 3rem;
+  --text-h1-semibold--font-weight: 600;
+  --text-h1-semibold--line-height: 3.6rem;
+
+  --text-h1-regular: 3rem;
+  --text-h1-regular--font-weight: 400;
+  --text-h1-regular--line-height: 3.6rem;
+
+  /* 40px */
+  --text-h2-semibold: 2.5rem;
+  --text-h2-semibold--font-weight: 600;
+  --text-h2-semibold--line-height: 3.375rem;
+
+  --text-h2-regular: 2.5rem;
+  --text-h2-regular--font-weight: 400;
+  --text-h2-regular--line-height: 3.375rem;
+
+  --text-h2-lightitalic: 2.5rem;
+  --text-h2-lightitalic--font-weight: 5;
+  --text-h2-lightitalic--line-height: 3.375rem;
+  --text-h2-lightitalic--font-style: italic;
+
+  /* 32px */
+  --text-h3-semibold: 2rem;
+  --text-h3-semibold--font-weight: 600;
+  --text-h3-semibold--line-height: 2.7rem;
+
+  --text-h3-regular: 2rem;
+  --text-h3-regular--font-weight: 400;
+  --text-h3-regular--line-height: 2.7rem;
+
+  /* 24px */
+  --text-h4-semibold: 1.5rem;
+  --text-h4-semibold--font-weight: 600;
+  --text-h4-semibold--line-height: 2.25rem;
+
+  --text-h4-regular: 1.5rem;
+  --text-h4-regular--font-weight: 400;
+  --text-h4-regular--line-height: 2.25rem;
+
+  /* 20px */
+  --text-h5-semibold: 1.25rem;
+  --text-h5-semibold--font-weight: 600;
+  --text-h5-semibold--line-height: 1.875rem;
+
+  --text-h5-regular: 1.25rem;
+  --text-h5-regular--font-weight: 400;
+  --text-h5-regular--line-height: 1.875rem;
+
+  /* 16px */
+  --text-h6-semibold: 1rem;
+  --text-h6-semibold--font-weight: 600;
+
+  --text-h6-regular: 1rem;
+  --text-h6-regular--font-weight: 400;
+
+  /* 14px */
+  --text-h7-semibold: 0.875rem;
+  --text-h7-semibold--font-weight: 600;
+
+  --text-h7-regular: 0.875rem;
+  --text-h7-regular--font-weight: 400;
+}
+
+:root {
+  --radius: 0.625rem;
+  --background: oklch(from #ffffff l c h);
+  --foreground: oklch(from #000000 l c h);
+  /* Text color: #000000 */
+  --card: oklch(from #ffffff l c h);
+  --card-foreground: oklch(from #000000 l c h);
+  --popover: oklch(from #ffffff l c h);
+  --popover-foreground: oklch(from #000000 l c h);
+  /* Primary */
+  --primary: oklch(from #b12028 l c h);
+  /* Primary: #B12028 */
+  --primary-foreground: oklch(from #ffffff l c h);
+  /* Secondary (Light brand) */
+  --secondary: oklch(from #fef2f3 l c h);
+  /* Light brand: #FEF2F3 */
+  --secondary-foreground: oklch(from #7c2025 l c h);
+  /* on light brand */
+  /* Background Sections */
+  --muted: oklch(from #f7f7f7 l c h);
+  /* Section bg: #F7F7F7 */
+  /* Description */
+  --muted-foreground: oklch(from #7b7b7b l c h);
+  /* Description: #7B7B7B */
+  /* Accent/Hover */
+  --accent: oklch(from #7c2025 l c h);
+  /* Hover: #7C2025 */
+  --accent-foreground: oklch(from #ffffff l c h);
+  /* Destructive matches primary */
+  --destructive: oklch(from #b12028 l c h);
+  /* Border & Inputs */
+  --border: oklch(from #dfdfdf l c h);
+  /* Border: #DFDFDF */
+  --input: oklch(from #dfdfdf l c h);
+  /* Brand extensions */
+  --ring: oklch(from #fef2f3 l c h);
+  /* Light brand */
+
+  /* Success */
+  --success: oklch(from #169a25 l c h);
+  /* Success: #169A25 */
+  /* Pending (keep) */
+  --warning: oklch(from #e0b610 l c h);
+  /* Some Description */
+  --text-gray: oklch(from #bababa l c h);
+  /* #BABABA */
+  /* Description (darker) */
+  --text-gray-dark: oklch(from #7b7b7b l c h);
+  /* #7B7B7B */
+  /* Hover */
+  --hover: oklch(from #7c2025 l c h);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer components {
+  .container-1440 {
+    @apply mx-auto w-full max-w-[1440px] px-4 sm:px-6 lg:px-8;
+  }
+}
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-between {
+    @apply flex justify-between;
+  }
+
+  /* hide scrollbar but keep scrolling */
+  .scrollbar-hidden {
+    -ms-overflow-style: none;
+    /* IE/Edge */
+    scrollbar-width: none;
+    /* Firefox */
+  }
+
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+    /* Chrome/Safari/WebKit */
+  }
+}
+
+iframe {
+  width: 100%;
+}
